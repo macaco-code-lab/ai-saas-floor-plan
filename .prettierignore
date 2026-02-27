@@ -1,0 +1,6 @@
+.cache
+.react-router
+build
+node_modules
+public/build
+package-lock.json
